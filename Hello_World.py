@@ -15,3 +15,5 @@ def task2():
 @app.route("/omar")
 def task3():
     return render_template("template.html")
+
+# link to repo: https://github.com/Omar-Martinez-F/lab15
